@@ -91,7 +91,7 @@ This challenge is assessed on the following criteria:
 
 * Application GitHub URL submitted.
 
-* GitHub repository that contains application code.
+~~* GitHub repository that contains application code.~~
 
 #### Application Quality: 15%
 
@@ -99,7 +99,7 @@ This challenge is assessed on the following criteria:
 
 #### Repository Quality: 13%
 
-* Repository has a unique name.
+~~* Repository has a unique name.~~
 
 * Repository follows best practices for file structure and naming conventions.
 
