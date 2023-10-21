@@ -6,7 +6,7 @@ A fantastic mockup for the wonderful Horiseon company. Where Search Engine Optim
 
 The goal of this project is to deliver a high-quality webpage mockup for the 'Horiseon" marketing agency. Horiseon bring Search Engine Optimization, Online Reputation Management and Social Media Marketing to life through an innovative approach to marketing. The priority was to ensure accessibility standards and to optimize the site for search engines. By adding these innovations to the website I have been able to improve its search engine optimization and achieved this by adjusting the .html and .css files. I have also taken time to extensively comment the .html and .css files for future developers. The next step for this project will be to achieve universal accessibility when accessed from other devices.
 
-[link to deployed application here]
+https://nonebula.github.io/horiseon-SEO-excellency/
 
 ## Table of Contents
 
