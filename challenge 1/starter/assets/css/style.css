@@ -40,7 +40,7 @@
     margin: 0;
 }
 
-/* main page body styles */
+/* main body styles */
 
 body {
     background-color: #d9dcd6;
@@ -55,7 +55,9 @@ a {
 
 /* paragraph styles */
 
+/* changed font family to match rest of document. */
 p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 16px;
 }
 

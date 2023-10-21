@@ -1,43 +1,14 @@
-# 01 HTML CSS Git: Code Refactor
-
 # horiseon-SEO-excellency
-A fantastic webpage for the wonderful Horiseon company.
 
-
-# My Module 1 Challenge Attempt
+A fantastic mockup for the wonderful Horiseon company. Where Search Engine Optimization, Online Reputation Management and Social Media Marketing come to life!
 
 ## Description 
 
-This is my attempt at Module 1 in the Frontend Web Development bootcamp. The goal of the project is to act as a marketing agency to build a codebase that follows accessibility standards in order toe ensure the site is optimized for search engines. The initial website did not have any search engine optimisation and was ... in order to achieve this objective, I ...
+The goal of this project is to deliver a high-quality webpage mockup for the 'Horiseon" marketing agency. Horiseon bring Search Engine Optimization, Online Reputation Management and Social Media Marketing to life through an innovative approach to marketing. The priority was to ensure accessibility standards and to optimize the site for search engines. By adding these innovations to the website I have been able to improve its search engine optimization and achieved this by adjusting the .html and .css files. I have also taken time to extensively comment the .html and .css files for future developers. The next step for this project will be to achieve universal accessibility when accessed from other devices.
 
 [link to deployed application here]
 
-
-{NOTE:The alt attribute, which means alternative text, brings meaning to the images on our sites. The alt attribute can be added to the image tag just like the src attribute. The value of alt should be a description of the image.
-
-<img src="#" alt="A field of yellow sunflowers" />
-
-The alt attribute also serves the following purposes:
-
-If an image fails to load on a web page, a user can mouse over the area originally intended for the image and read a brief description of the image. This is made possible by the description you provide in the alt attribute.
-Visually impaired users often browse the web with the aid of screen reading software. When you include the alt attribute, the screen reading software can read the image’s description out loud to the visually impaired user.
-The alt attribute also plays a role in Search Engine Optimization (SEO), because search engines cannot “see” the images on websites as they crawl the internet. Having descriptive alt attributes can improve the ranking of your site.
-If the image on the web page is not one that conveys any meaningful information to a user (visually impaired or otherwise), the alt attribute should be left empty.}
-
-
-A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
-
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? 
-
-
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
-
-
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -46,57 +17,48 @@ If your README is very long, add a table of contents to make it easy for users t
 
 
 ## Installation
+This project is a website hosted on GitHub. To access and use the website, follow these steps:
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+1. **Open your web browser:** Launch your preferred web browser.
+2. **Visit the project repository:** https://github.com/yourusername/yourproject 
+3. **Navigate to the website:** Click the link to the website in the readme or via the repository.
+4. **Explore the website:** Enjoy exploring and interacting with the website.
 
+If you encounter any issues or have questions, please refer to the documentation or contact the developers.
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+To navigate to each section on the webpage, click the heading link at the top of the page. Alternatively, you can scroll through the page to read it all! The screenshot below shows the page screenshot. Should the page fail to load in the presented format, make sure to load it up on a desktop monitor. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
-
+![Website Screenshot](/challenge%201/starter/assets/images/screenshot.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
+The project was completed independently but built off the source code from: edX Boot Camps LLC. [LINK]
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+MIT License
+
+Copyright (c) 2023 nonebula
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, consider adding a heading called "Features" and listing them there.
-
-## Contributing
-
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
-
----
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+Copyright (c) 2023 nonebula
