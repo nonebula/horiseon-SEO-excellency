@@ -20,7 +20,7 @@ The goal of this project is to deliver a high-quality webpage mockup for the 'Ho
 This project is a website hosted on GitHub. To access and use the website, follow these steps:
 
 1. **Open your web browser:** Launch your preferred web browser.
-2. **Visit the project repository:** https://github.com/yourusername/yourproject 
+2. **Visit the project repository:** https://github.com/nonebula/horiseon-SEO-excellency
 3. **Navigate to the website:** Click the link to the website in the readme or via the repository.
 4. **Explore the website:** Enjoy exploring and interacting with the website.
 
@@ -35,6 +35,10 @@ To navigate to each section on the webpage, click the heading link at the top of
 ## Credits
 
 The project was completed independently but built off the source code from: edX Boot Camps LLC. [LINK]
+
+In producing this webpage, I utilized the following tutorials:
+* [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
 ## License
 
