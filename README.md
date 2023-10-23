@@ -34,7 +34,7 @@ To navigate to each section on the webpage, click the heading link at the top of
 
 ## Credits
 
-The project was completed independently but built off the source code from: edX Boot Camps LLC. [LINK]
+The project was completed independently but built off the source code from: edX Boot Camps LLC. I worked with my tutor, Juan Delgado, to identify issues and recognize and correct div elements and to consolidate css styles within the documents. 
 
 In producing this webpage, I utilized the following tutorials:
 * [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
