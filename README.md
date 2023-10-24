@@ -30,7 +30,7 @@ If you encounter any issues or have questions, please refer to the documentation
 
 To navigate to each section on the webpage, click the heading link at the top of the page. Alternatively, you can scroll through the page to read it all! The screenshot below shows the page screenshot. Should the page fail to load in the presented format, make sure to load it up on a desktop monitor. 
 
-![Website Screenshot](/challenge%201/starter/assets/images/screenshot.png)
+![Website Screenshot](/challenge%201/starter/assets/images/scrnli_24_10_2023_18-34-04.png)
 
 ## Credits
 
