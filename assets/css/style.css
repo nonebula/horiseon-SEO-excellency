@@ -93,9 +93,18 @@ p {
     margin-left: 20px;
 }
 
-/* main body sections styling */
 
-.search-engine-optimization {
+/* main body section styling */
+.main-section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+  }
+  
+/* .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -120,11 +129,15 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
-/* main body secondary images styling */
 
-.search-engine-optimization img {
+ /* main body secondary image styling */
+ .main-section img {
+    max-height: 200px;
+  }
+
+/* .search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -134,11 +147,15 @@ p {
 
 .social-media-marketing img {
     max-height: 200px;
-}
+} */
+
 
 /* main body heading styles */
-
-.search-engine-optimization h2 {
+.main-section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+  }
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -151,7 +168,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 /* right-hand sidebar/benefits section styling */
 
@@ -243,6 +260,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
